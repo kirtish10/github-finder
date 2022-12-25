@@ -19,7 +19,6 @@ The app will be served at http://localhost:3000
 ## Built With
 
 - [React](https://reactjs.org/) - A JavaScript library for building user interfaces
-- [Axios](https://github.com/axios/axios) - A Promise-based HTTP client for the browser and node.js
 
 ## License
 
